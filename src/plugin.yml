@@ -1,0 +1,21 @@
+name: ItemHub
+version: 1.0.0
+main: com.palmtrww.ItemHub.ItemHub
+authors: [ palmtrww ]
+description: Custom Items
+commands:
+  grapplinghook:
+    description: Grappling Hook
+    usage: /<command>
+  explosivebow:
+    description: Explosive Bow
+    usage: /<command>
+  infinitewater:
+    description: Infinite water
+    usage: /<command>
+  infinitelava:
+    description: Infinite lava
+    usage: /<command>
+  machinebow:
+    description: Machine Bow
+    usage: /<command>
